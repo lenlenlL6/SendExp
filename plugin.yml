@@ -1,0 +1,9 @@
+name: ChuyenExp
+main: chuyenexp\Main
+author: pmmdst
+api: 3.0.0
+version: 0.0.1
+
+commands:
+ chuyenexp:
+  description: Chuyển Exp Cho Người Khác
